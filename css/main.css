@@ -251,3 +251,6 @@ footer address p + p{margin-top:6px}
 .hero-showcase .statpanel{display:none}
 .hero-showcase .hero-grid{grid-template-columns:minmax(0,640px)}
 @media(max-width:900px){.hero-showcase:before{background:linear-gradient(180deg,rgba(21,20,32,.92),rgba(21,20,32,.80))}.hero-showcase{min-height:0}}
+
+.hood-links{margin-top:8px}
+.hood-links a{white-space:normal}
